@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "tinyProfiler": {
+      "commandName": "Project",
+      "commandLineArgs": "-i=SERVER07\\SISTEMI -u=sa -p=Sistemi123 -d=17036B_ESOLVER"
+    }
+  }
+}
